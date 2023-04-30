@@ -1,8 +1,8 @@
 # Umi AI: A WebUI Wildcard Mod!
 
-Umi AI is a wildcard mod that allows you to create randomized characters from random species with modular clothing types. It will grow over time and eventually become the ultimate character randomizer and creator.
+Umi AI 是一个通配符模组，允许您使用模块化服装类型从随机物种中创建随机角色。它将随着时间的推移而增长，并最终成为最终的角色随机化器和创造者。
 
-Umi replaces the [Dynamic Wildcards extension](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards). It has all the same functionality, plus more. Umi also conflicts with the [Unprompted extension](https://github.com/ThereforeGames/unprompted). Pick one or the other.
+Umi 替换了动态通配符[Dynamic Wildcards extension](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)扩展。它具有所有相同的功能，以及更多功能。Umi 还与无提示扩展[Unprompted extension](https://github.com/ThereforeGames/unprompted)冲突。
 
 Note that if you are reading this message a substantial amount of time after the date of Nov 13th, Umi may already have the majority of capabilities that Unprompted does. Additionally, it will almost certainly be easier to use. For example, what if you want to create a random choice of multiple options?
 
@@ -14,5 +14,5 @@ Note that if you are reading this message a substantial amount of time after the
 
     Photo of a {red|blue|yellow|green}-haired {man|woman}
 
-These two functions do exactly the same thing, but Umi's is smaller and easier to read. The goal of Umi is to be as easy to use as possible while providing consistently high-quality outputs of random characters and settings.
+这两个函数做完全相同的事情，但 Umi 的更小，更容易阅读。Umi 的目标是尽可能易于使用，同时提供始终如一的高质量随机字符和设置输出。
 
